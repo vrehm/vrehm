@@ -1,11 +1,15 @@
 ### Hi there 👋
+- 🔭 I’m currently working on [a personal finance app](https://github.com/vrehm/knox)
+- 🌱 I’m currently learning [Vue JS](https://github.com/vuejs/vue), [Nuxt JS](https://github.com/nuxt/nuxt.js) and [Strapi](https://github.com/strapi/strapi) in production projects
+- 🤝 I’m looking to collaborate for web dev freelancing missions
+- 📫 How to reach me: [contact @ vincentrehm.fr](mailto:contact@vincentrehm.fr)
 
 <!--
 **vrehm/vrehm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
